@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "7239071a06ade28b",
+    "type": "split",
+    "children": [
+      {
+        "id": "44f089ea5b5e9ede",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d8cba310e5a56f4",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Canvas/二进制数据持久化.canvas",
+                "viewState": {
+                  "x": 500,
+                  "y": -76,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "二进制数据持久化"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1055bcc580c498aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "4846827c7197c7aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "14e13654ff3b44fa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "ad4ec5f08084544f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "6324a1ab19be5cb9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "89c56fc3b87e5f3b",
+    "type": "split",
+    "children": [
+      {
+        "id": "a2b8dbba56ebb49e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3276ddc7a580fa9e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Canvas/二进制数据持久化.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "二进制数据持久化 的反向链接列表"
+            }
+          },
+          {
+            "id": "618d7b0d637b7231",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Canvas/二进制数据持久化.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "二进制数据持久化 的出链列表"
+            }
+          },
+          {
+            "id": "bb7d5ef3330317f0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "2f949f03da1c100e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Canvas/二进制数据持久化.canvas"
+              },
+              "icon": "lucide-list",
+              "title": "二进制数据持久化 的大纲"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-kanban:创建新看板": false,
+      "mxmind:Mxmind": false
+    }
+  },
+  "active": "7d8cba310e5a56f4",
+  "lastOpenFiles": [
+    "Canvas/二进制数据持久化.canvas",
+    "Canvas/图谱.canvas",
+    "模板/模板名称.md",
+    "Content/功能模块实现.md",
+    "Map/UGUI.xmind",
+    "Map/FairyGUI.xmind",
+    "Map/UGUI项目实战.xmind",
+    "Content/未命名.md",
+    "Content/委托事件.md",
+    "Content/未命名思维导图.md",
+    "Content/文件IO.md",
+    "技术路线图.md",
+    "Content/未命名看板.md",
+    "Map/未命名.canvas",
+    "待完成的技术.md",
+    "JI.canvas",
+    "Image/Pasted image 20241106003609.png",
+    "Image/Pasted image 20241106003602.png",
+    "技术分类.md",
+    "Content/test.md",
+    "未命名",
+    "Content/安卓、苹果SDK.md",
+    "Image/Pasted image 20241019233320.png",
+    "Image/Pasted image 20241019233158.png",
+    "Image/Pasted image 20241019225236.png",
+    "Image/Pasted image 20241019222637.png",
+    "Content/CSharp基础：反射、委托事件、文件IO、多线程.md",
+    "Content/岗位需求分析.md",
+    "Image/Pasted image 20241014222753.png",
+    "Content/反射.md",
+    "Content/对象池.md",
+    "Content/Unity以及CSharpAPI.md",
+    "Content/Unity以及C.md",
+    "Content/单例模式.md",
+    "Content/UGUI实现与优化.md",
+    "模板",
+    "Canvas",
+    "- [ ] UGUI实现与优化.md",
+    "未命名.md",
+    "Content",
+    "Image/Pasted image 20241014171926.png",
+    "[!Note] hehehe.md",
+    "欢迎.md",
+    "Image"
+  ]
+}
