@@ -23,8 +23,26 @@
               "icon": "lucide-layout-dashboard",
               "title": "二进制数据持久化"
             }
+          },
+          {
+            "id": "887e94b1ebd438c1",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Canvas/二进制数据持久化.canvas",
+                "viewState": {
+                  "x": 1844.0134560324516,
+                  "y": -321.5902915267085,
+                  "zoom": -1.9999999999999998
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "二进制数据持久化"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -164,12 +182,14 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "obsidian-kanban:创建新看板": false,
-      "mxmind:Mxmind": false
+      "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "7d8cba310e5a56f4",
+  "active": "887e94b1ebd438c1",
   "lastOpenFiles": [
+    "Image/Pasted image 20241106231015.png",
+    "Image/Pasted image 20241106230851.png",
+    "Image/Pasted image 20241106230832.png",
     "Canvas/二进制数据持久化.canvas",
     "Canvas/图谱.canvas",
     "模板/模板名称.md",
