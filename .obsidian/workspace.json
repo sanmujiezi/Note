@@ -35,8 +35,8 @@
               "state": {
                 "file": "Canvas/二进制数据持久化.canvas",
                 "viewState": {
-                  "x": 1466.4324461065999,
-                  "y": 776.4538631460376,
+                  "x": 2309.685534591196,
+                  "y": 339.9748427672954,
                   "zoom": -1.6059802819902393
                 }
               },
@@ -188,13 +188,14 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "b3b8630e5c6f2ff3",
+  "active": "14e13654ff3b44fa",
   "lastOpenFiles": [
+    "Map/Excel程序集.xmind",
     "技术分类.md",
     "待完成的技术.md",
+    "Canvas/二进制数据持久化.canvas",
     "技术路线图.md",
     "Content/CSharp基础：反射、委托事件、文件IO、多线程.md",
-    "Canvas/二进制数据持久化.canvas",
     "Image/Pasted image 20241106231015.png",
     "Image/Pasted image 20241106230851.png",
     "Image/Pasted image 20241106230832.png",
