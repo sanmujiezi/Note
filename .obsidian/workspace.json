@@ -11,17 +11,12 @@
             "id": "887e94b1ebd438c1",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "image",
               "state": {
-                "file": "Canvas/二进制数据持久化.canvas",
-                "viewState": {
-                  "x": 1844.1546073219981,
-                  "y": 2094.758178085515,
-                  "zoom": -2.813215330019609
-                }
+                "file": "Image/表格数据转换器.png"
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "二进制数据持久化"
+              "icon": "lucide-image",
+              "title": "表格数据转换器"
             }
           }
         ]
@@ -169,10 +164,10 @@
   },
   "active": "887e94b1ebd438c1",
   "lastOpenFiles": [
+    "Image/Excel转二进制知识点.png",
     "Image/表格数据转换器.png",
     "Canvas/二进制数据持久化.canvas",
     "技术分类.md",
-    "Image/Excel转二进制知识点.png",
     "Image/Pasted image 20241109160230.png",
     "待完成的技术.md",
     "技术路线图.md",
