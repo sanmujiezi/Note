@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"d0bbabd7f130e115","x":-220,"y":-200,"width":1100,"height":704,"type":"group","label":"看板"},
+		{"id":"b658f181b98eb6fb","x":-200,"y":4,"width":250,"height":164,"type":"text","text":"### 热更新\n主要分为代码热更与资源热更"},
+		{"id":"87d316e85b0abcd8","x":140,"y":-176,"width":250,"height":204,"type":"text","text":"### 资源热更\nAddressable\nAssetsBundle\n前一个是后一个的升级版，目前AssetsBundle已经弃用了"},
+		{"id":"5d07e63d8a255ce5","type":"text","text":"### 代码热更\nHybirdCLR     #CSharp热更\nILRuntime      #CSharp热更\nXlua                #Lua热更\nToLua             #Lua热更\n\nHybirdCLR的性能更加的好\n它并不需要虚拟机来转换代码，是直接通过对IL2cpp做的扩展来实现的\n","x":140,"y":144,"width":320,"height":300},
+		{"id":"b34f79828b6e88e9","x":500,"y":-176,"width":340,"height":456,"type":"text","text":"### 跳转链接\n#### 资源热更\n\n\n#### 代码热更\n\n"}
+	],
+	"edges":[
+		{"id":"4305cc5ce584453d","fromNode":"b658f181b98eb6fb","fromSide":"right","toNode":"87d316e85b0abcd8","toSide":"left"},
+		{"id":"bc053ca468df2306","fromNode":"b658f181b98eb6fb","fromSide":"right","toNode":"5d07e63d8a255ce5","toSide":"left"}
+	]
+}

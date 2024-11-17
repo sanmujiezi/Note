@@ -4,19 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "44f089ea5b5e9ede",
+        "id": "817fb9715b4a697c",
         "type": "tabs",
         "children": [
           {
-            "id": "887e94b1ebd438c1",
+            "id": "c4f4044e3a1fa722",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "canvas",
               "state": {
-                "file": "Image/表格数据转换器.png"
+                "file": "Map/Addressable.canvas",
+                "viewState": {
+                  "x": -34.81767983409742,
+                  "y": 240.35517476247725,
+                  "zoom": -1.3333333333333333
+                }
               },
-              "icon": "lucide-image",
-              "title": "表格数据转换器"
+              "icon": "lucide-layout-dashboard",
+              "title": "Addressable"
             }
           }
         ]
@@ -50,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Lua热更",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -162,14 +167,19 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "887e94b1ebd438c1",
+  "active": "c4f4044e3a1fa722",
   "lastOpenFiles": [
-    "Image/Excel转二进制知识点.png",
-    "Image/表格数据转换器.png",
+    "Image/Pasted image 20241117183010.png",
+    "Image/Pasted image 20241117180330.png",
+    "Map/热更新.canvas",
+    "Map/Addressable.canvas",
     "Canvas/二进制数据持久化.canvas",
     "技术分类.md",
-    "Image/Pasted image 20241109160230.png",
     "待完成的技术.md",
+    "Content/文件IO.md",
+    "Image/表格数据转换器.png",
+    "Image/Excel转二进制知识点.png",
+    "Image/Pasted image 20241109160230.png",
     "技术路线图.md",
     "Map/Excel程序集.xmind",
     "Content/CSharp基础：反射、委托事件、文件IO、多线程.md",
@@ -185,9 +195,7 @@
     "Content/未命名.md",
     "Content/委托事件.md",
     "Content/未命名思维导图.md",
-    "Content/文件IO.md",
     "Content/未命名看板.md",
-    "Map/未命名.canvas",
     "JI.canvas",
     "Image/Pasted image 20241106003609.png",
     "Image/Pasted image 20241106003602.png",
@@ -195,7 +203,6 @@
     "未命名",
     "Content/安卓、苹果SDK.md",
     "Image/Pasted image 20241019233320.png",
-    "Image/Pasted image 20241019233158.png",
     "Content/岗位需求分析.md",
     "Content/反射.md",
     "Content/对象池.md",

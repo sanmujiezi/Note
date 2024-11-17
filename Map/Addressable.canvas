@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"610869e5eae3b0fa","x":-540,"y":-420,"width":1100,"height":1500,"color":"4","type":"group","label":"基本概念与使用"},
+		{"id":"e77c02d0e767cea0","x":-520,"y":-400,"width":390,"height":226,"type":"text","text":"### 概念\n是AssetsBundel的加强版\n主要用于对资源进行热更新\n\n相较于前者，它实现了更加自动化的资源管理，不需要再通过程序员来手动维护。"},
+		{"id":"ac9c461e795c151d","x":-100,"y":-399,"width":302,"height":225,"type":"text","text":"### 导入包\n通过unitypackage下载"},
+		{"id":"30a7a00b36c35a7d","type":"text","text":"### 使用\n通过Assets Manager -> Addressable->grounps \n然后选择创建Addressable文件即可\n\n选中资源可以勾选Addressable来设置为可寻址的资源","x":240,"y":-399,"width":300,"height":225},
+		{"id":"947498212a3fa31f","type":"text","text":"### 添加寻址\n如果资源再resources文件夹，则会自动移动刀resources_remove文件夹，避免次热更资源被打包出去\n\n![[Pasted image 20241117180330.png]]","x":-520,"y":-80,"width":1060,"height":520},
+		{"id":"d4b941d5414c7911","x":-520,"y":500,"width":1060,"height":520,"type":"text","text":"### Addressable视图\n\n\t添加到寻址之后可以在group视图中查看到\n\nGroups Name：包的group Name是不可以重复的\nAddressable Name：资源名允许重复\n\tAddressable Name其本质就只是一个为了方便调用的间接名\n\t他的绝对名其实是资源的 Path\nLable：标签是可以重复的，甚至可以多选\n\n![[Pasted image 20241117183010.png]]"},
+		{"id":"23db29f27696a81e","x":-1640,"y":-239,"width":1034,"height":1299,"type":"link","url":"https://docs.unity3d.com/Packages/com.unity.addressables@1.22/manual/index.html"},
+		{"id":"e0d6a8e650ac582d","x":-1640,"y":-429,"width":1034,"height":143,"type":"text","text":"# 官网链接\nhttps://docs.unity3d.com/Packages/com.unity.addressables@1.22/manual/index.html"}
+	],
+	"edges":[
+		{"id":"2aa42e0cbb4f5b83","fromNode":"e77c02d0e767cea0","fromSide":"right","toNode":"ac9c461e795c151d","toSide":"left"},
+		{"id":"35f2a90fcc641ba0","fromNode":"ac9c461e795c151d","fromSide":"right","toNode":"30a7a00b36c35a7d","toSide":"left"},
+		{"id":"4221d06d71043b07","fromNode":"30a7a00b36c35a7d","fromSide":"bottom","toNode":"947498212a3fa31f","toSide":"top"},
+		{"id":"e62abcb74c50b166","fromNode":"947498212a3fa31f","fromSide":"bottom","toNode":"d4b941d5414c7911","toSide":"top"},
+		{"id":"63c3d442f0fcaa2c","fromNode":"e0d6a8e650ac582d","fromSide":"bottom","toNode":"23db29f27696a81e","toSide":"top"}
+	]
+}
