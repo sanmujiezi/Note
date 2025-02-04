@@ -1,27 +1,20 @@
 {
   "main": {
-    "id": "7239071a06ade28b",
+    "id": "5324373015726ba8",
     "type": "split",
     "children": [
       {
-        "id": "817fb9715b4a697c",
+        "id": "32bc7cadc5982086",
         "type": "tabs",
         "children": [
           {
-            "id": "c4f4044e3a1fa722",
+            "id": "bc39f8539ede3f78",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Map/Addressable.canvas",
-                "viewState": {
-                  "x": -34.81767983409742,
-                  "y": 240.35517476247725,
-                  "zoom": -1.3333333333333333
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Addressable"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ]
@@ -43,7 +36,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -55,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Lua热更",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 345.5
   },
   "right": {
     "id": "89c56fc3b87e5f3b",
@@ -142,10 +136,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Canvas/二进制数据持久化.canvas"
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "二进制数据持久化 的大纲"
+              "title": "大纲"
             }
           }
         ],
@@ -153,8 +149,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,59 +159,65 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "obsidian-kanban:创建新看板": false
+      "obsidian-kanban:创建新看板": false,
+      "homepage:Open homepage": false
     }
   },
-  "active": "c4f4044e3a1fa722",
+  "active": "bc39f8539ede3f78",
   "lastOpenFiles": [
+    "Content/ETC.md",
+    "Canvas/unity图像压缩格式.canvas",
+    "技术分类.md",
+    "Home.md",
+    "Content/RGBA compressed.md",
+    "Content/PVRTC.md",
+    "Content/DXT.md",
+    "Content/ASTC.md",
+    "Content/unity学习笔记.md",
+    "Canvas/Sprite资源篇.canvas",
+    "Content/2025半年计划（上）.md",
+    "Content/建康饮食.md",
+    "Content/CSharp基础：反射、委托事件、文件IO、多线程.md",
+    "待完成的技术.md",
+    "Content/健身.md",
+    "Content/未命名.md",
+    "Content/未命名思维导图.md",
+    "Content/未命名 1.md",
+    "健身与饮食",
+    "Content/3D数学.md",
+    "Content/商业游戏开发简介.md",
+    "Content/unity基础.md",
+    "技术路线图.md",
+    "Content/读书笔记.md",
+    "模板/模板名称.md",
+    "Content/2025-01-15.md",
+    "仲裁/劳动争议化解平台信息填写.md",
+    "Canvas/TextMeshPro资源篇.canvas",
+    "Image/字符集.png",
+    "Image/Pasted image 20250109231608.png",
+    "Image/Pasted image 20250109231442.png",
+    "Image/Pasted image 20250109203818.png",
+    "Image/Pasted image 20250109203811.png",
+    "Image/Pasted image 20250109203307.png",
+    "仲裁",
+    "Canvas/二进制数据持久化.canvas",
+    "Image/Pasted image 20250107233909.png",
+    "Image/Sprite atlas Inspeactor.png",
+    "Map/Unity基础.canvas",
+    "Canvas/图谱.canvas",
+    "Content/2025-01-07.md",
+    "Map/拼个饭游戏.xmind",
     "Image/Pasted image 20241117183010.png",
     "Image/Pasted image 20241117180330.png",
     "Map/热更新.canvas",
     "Map/Addressable.canvas",
-    "Canvas/二进制数据持久化.canvas",
-    "技术分类.md",
-    "待完成的技术.md",
-    "Content/文件IO.md",
-    "Image/表格数据转换器.png",
-    "Image/Excel转二进制知识点.png",
-    "Image/Pasted image 20241109160230.png",
-    "技术路线图.md",
     "Map/Excel程序集.xmind",
-    "Content/CSharp基础：反射、委托事件、文件IO、多线程.md",
-    "Image/Pasted image 20241106231015.png",
-    "Image/Pasted image 20241106230851.png",
-    "Image/Pasted image 20241106230832.png",
-    "Canvas/图谱.canvas",
-    "模板/模板名称.md",
-    "Content/功能模块实现.md",
     "Map/UGUI.xmind",
     "Map/FairyGUI.xmind",
     "Map/UGUI项目实战.xmind",
-    "Content/未命名.md",
-    "Content/委托事件.md",
-    "Content/未命名思维导图.md",
-    "Content/未命名看板.md",
     "JI.canvas",
-    "Image/Pasted image 20241106003609.png",
-    "Image/Pasted image 20241106003602.png",
-    "Content/test.md",
-    "未命名",
-    "Content/安卓、苹果SDK.md",
-    "Image/Pasted image 20241019233320.png",
-    "Content/岗位需求分析.md",
-    "Content/反射.md",
-    "Content/对象池.md",
-    "Content/Unity以及CSharpAPI.md",
-    "Content/Unity以及C.md",
-    "Content/单例模式.md",
-    "Content/UGUI实现与优化.md",
     "模板",
     "Canvas",
-    "- [ ] UGUI实现与优化.md",
-    "未命名.md",
-    "Content",
-    "[!Note] hehehe.md",
-    "欢迎.md",
-    "Image"
+    "Content"
   ]
 }

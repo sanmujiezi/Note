@@ -1,0 +1,33 @@
+{
+	"nodes":[
+		{"id":"d37b421b3a16544f","type":"text","text":"# 常用且常见的几种图片压缩格式如下","x":-200,"y":-320,"width":540,"height":64},
+		{"id":"3247eacda34ab0b0","type":"text","text":"## [[ASTC]]","x":526,"y":-40,"width":186,"height":64},
+		{"id":"583f3ab893a784dc","type":"text","text":"## [[RGBA compressed]]","x":-516,"y":-40,"width":272,"height":64},
+		{"id":"aaa073e22b4b307d","type":"text","text":"## [[ETC]]","x":276,"y":-40,"width":186,"height":64},
+		{"id":"ab01873d3a84a526","type":"text","text":"## [[DXT]]","x":-200,"y":-40,"width":186,"height":64},
+		{"id":"5c9c3f3e02795992","type":"text","text":"## [[PVRTC]]","x":36,"y":-40,"width":186,"height":64},
+		{"id":"1bc2ea2260030f9c","type":"text","text":"![[RGBA compressed]]","x":-1398,"y":240,"width":478,"height":440},
+		{"id":"81bd6d43f7e1b223","type":"text","text":"![[PVRTC]]","x":-342,"y":240,"width":471,"height":514},
+		{"id":"c69d40eed2c2d820","type":"text","text":"![[DXT]]","x":-863,"y":240,"width":476,"height":577},
+		{"id":"3c362404cf3438b0","type":"text","text":"![[ETC]]","x":165,"y":240,"width":454,"height":860},
+		{"id":"8e2148b7f28aeb73","x":680,"y":240,"width":558,"height":1400,"type":"text","text":"![[ASTC]]"},
+		{"id":"4f79f806aba32689","x":1490,"y":240,"width":1390,"height":1400,"type":"link","url":"https://blog.csdn.net/zjw1349547081/article/details/135954254?ops_request_misc=&request_id=&biz_id=102&utm_term=unity%E4%B8%AD%E5%9B%BE%E7%89%87%E7%9A%84%E5%8E%8B%E7%BC%A9%E6%A0%BC%E5%BC%8F%E7%89%B9%E7%82%B9%E4%BB%8B%E7%BB%8D&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduweb~default-0-135954254.142^v101^control&spm=1018.2226.3001.4187"},
+		{"id":"eea3e10a9c1f9f34","x":2880,"y":-348,"width":250,"height":60,"type":"text","text":"参考文章"},
+		{"id":"d55cf7327dc62992","x":3005,"y":240,"width":1435,"height":1400,"type":"link","url":"https://blog.csdn.net/weixin_44165354/article/details/138704850?ops_request_misc=&request_id=&biz_id=102&utm_term=unity%E4%B8%AD%E5%9B%BE%E7%89%87%E7%9A%84%E5%8E%8B%E7%BC%A9%E6%A0%BC%E5%BC%8F%E7%89%B9%E7%82%B9%E4%BB%8B%E7%BB%8D&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduweb~default-1-138704850.142^v101^control&spm=1018.2226.3001.4187"}
+	],
+	"edges":[
+		{"id":"dc5b22ad775f6a23","fromNode":"d37b421b3a16544f","fromSide":"bottom","toNode":"583f3ab893a784dc","toSide":"top"},
+		{"id":"0f99051855849471","fromNode":"d37b421b3a16544f","fromSide":"bottom","toNode":"ab01873d3a84a526","toSide":"top"},
+		{"id":"ab8f1e5863f66a7e","fromNode":"d37b421b3a16544f","fromSide":"bottom","toNode":"5c9c3f3e02795992","toSide":"top"},
+		{"id":"a30945473a3a1479","fromNode":"d37b421b3a16544f","fromSide":"bottom","toNode":"aaa073e22b4b307d","toSide":"top"},
+		{"id":"46a3e31f877504a8","fromNode":"d37b421b3a16544f","fromSide":"bottom","toNode":"3247eacda34ab0b0","toSide":"top"},
+		{"id":"89dd3c59424db69d","fromNode":"583f3ab893a784dc","fromSide":"bottom","toNode":"1bc2ea2260030f9c","toSide":"top"},
+		{"id":"72d903c087315814","fromNode":"ab01873d3a84a526","fromSide":"bottom","toNode":"c69d40eed2c2d820","toSide":"top"},
+		{"id":"bb4fd18b8b6ff10f","fromNode":"5c9c3f3e02795992","fromSide":"bottom","toNode":"81bd6d43f7e1b223","toSide":"top"},
+		{"id":"a63fb9bf72a4bda0","fromNode":"aaa073e22b4b307d","fromSide":"bottom","toNode":"3c362404cf3438b0","toSide":"top"},
+		{"id":"0120631d59638649","fromNode":"3247eacda34ab0b0","fromSide":"bottom","toNode":"8e2148b7f28aeb73","toSide":"top"},
+		{"id":"ff7d819027f1b21a","fromNode":"d37b421b3a16544f","fromSide":"right","toNode":"eea3e10a9c1f9f34","toSide":"left"},
+		{"id":"1bb45e7dad7417a2","fromNode":"eea3e10a9c1f9f34","fromSide":"bottom","toNode":"4f79f806aba32689","toSide":"top"},
+		{"id":"4b123649c3d3662a","fromNode":"eea3e10a9c1f9f34","fromSide":"bottom","toNode":"d55cf7327dc62992","toSide":"top"}
+	]
+}

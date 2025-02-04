@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"35eb7d607843d882","type":"group","x":-200,"y":-140,"width":2760,"height":1280,"label":"Sprite资源"},
+		{"id":"f5635b574e1eac3d","type":"text","text":"### Sprite Atlas 图集\n- **Include in Build** \n 是指在打包的时候把这个图集一起构建进去，默认必须勾选。\n\n- **Tight packing**\n是指用图片的alpha值来排列紧凑的图集，而非通过计算矩形范围\n\n- **Padding** \n是指图集中图片的间距\n\n- **Read/Write Enabled**\n只有它被开启的时候才能通过Texture2D的api来动态访问到图集，但是启用后系统会在内存中创建一个图集的副本，所以比较占用内存。在读取的时候也只能读没有压缩过的图集，或者DXT格式压缩的图集\n\n- **CreateMipmap**\n是在unity运行时或者编辑器使用时灵活动态加载的图片一共分为四个版本，他自动更具与相机的距离使用对应大小的图片，从而节省GPU性能，但是也会为内存带来压力，属于是通过空间来换取性能时间的做法。\n![[Pasted image 20250107233909.png]]","x":-180,"y":-120,"width":620,"height":760,"color":"4"},
+		{"id":"8eee8e502c30b920","type":"file","file":"Image/Sprite atlas Inspeactor.png","x":460,"y":-100,"width":468,"height":600},
+		{"id":"782dae84436f3d75","type":"text","text":"- **sRGB** \n是一种判断是否使用Gamma空间的色彩计算方式来处理图集颜色的选项，如果不涉及到反射之类的图片可以使用此选项。\n- **Filter Mode** \n可以选择如何处理纹理在屏幕中缩放拉伸的计算方式\n*Point* 算法适用于像素游戏，拉伸后会很糊有马赛克\n*Dilinear* 常规的处理方式，会比较平滑的过度处理，但是也会有一些模糊，可以理解为高斯模糊\n*Trilinear* 远距离看更加的细致和平滑，适合好质量渲染的场景\n- 平台打包格式，可以使用 *Automatic* ，或者通过手动配置勾选覆盖来调整格式，压缩质量以及格式网页----->>","x":-180,"y":660,"width":620,"height":460},
+		{"id":"961f4296266061d3","type":"link","url":"https://docs.unity3d.com/2022.3/Documentation/Manual/class-TextureImporterOverride.html#terminology","x":960,"y":-100,"width":1560,"height":1220},
+		{"id":"58b10c21ee05fef9","type":"text","text":"- Sprite packer 在project setting 中打开后使用V2版本的Enable模式，可以实时查看到图集的变化，并且在editor与play中都是通过sprite 读取的图集数据，在测试环境上和真机比较接近，所以比较推荐这种方式\n- 如果之前使用的时v1版本的，在做图集的版本变化之前建议备份一下v1的图集，因为在转换图集后图集的内容丢失是不可逆的。","x":460,"y":510,"width":468,"height":610}
+	],
+	"edges":[]
+}

@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"0392870078cf78a8","type":"group","x":-480,"y":240,"width":1760,"height":1080,"label":"TextMeshPro"},
+		{"id":"91f1833cf647e12e","type":"text","text":"## TextMeshPro对比Text特点\n\n#### 性能：\n先说结论，TM（TextMeshPro）比Text的性能更加的好。主要原因是渲染方式的不同，TM是通过生成适量图集的方式来渲染的问题，并且只通过一次渲染就能够计算出描边等信息（可以通过overflow视图对比）\n清晰度上也会比Text更加的清楚。\n技术关键词： #SDF #有向距场\n","x":-400,"y":320,"width":400,"height":300},
+		{"id":"fbba9995515edbfb","type":"text","text":"### 新版的TM支持动态更新字体\n在我们从系统的fonts文件夹或者其他地方拖入字体资源后，将字体的渲染模式调整为动态。\n![[Pasted image 20250109231442.png]]\n\n然后通过选中字体，右键Create -> TextMeshPro-> Font Assets 即可创建TM字体资源\n![[Pasted image 20250109231608.png]]","x":-380,"y":894,"width":400,"height":320},
+		{"id":"c743047343a75029","type":"text","text":"### TM资源设置\n\n主要调整生成字符集的设置\n-  Sampling Point Size：调整为60，这个属性控制了字符集中单个字符的大小\n- Altas Width/Height ：因为字符是动态加载，如果字符集装满了，不存在字符集上的字符则会表现为  口  子符号\n- Multi Atlas Texures ：启用多个字符集同样为了避免上面所说的问题。\n\n\n\n","x":182,"y":904,"width":409,"height":300},
+		{"id":"1d8fbf4467a1e72e","x":142,"y":334,"width":409,"height":320,"type":"text","text":"### Text与TM的实际使用场景\n在实际的使用场景上，在玩家输入的地方一般使用Text，应为玩家输入的内容未知，如果使用TM可能会很快就占满了字符集。"},
+		{"id":"92db9bfd0e7de9c6","type":"file","file":"Image/字符集.png","x":702,"y":694,"width":460,"height":240}
+	],
+	"edges":[
+		{"id":"7fef22c79225b3a1","fromNode":"91f1833cf647e12e","fromSide":"bottom","toNode":"fbba9995515edbfb","toSide":"top"},
+		{"id":"9689543d904be961","fromNode":"fbba9995515edbfb","fromSide":"right","toNode":"c743047343a75029","toSide":"left"},
+		{"id":"8f2c72385db69da4","fromNode":"c743047343a75029","fromSide":"top","toNode":"1d8fbf4467a1e72e","toSide":"bottom"},
+		{"id":"1a4266ca37ab5856","fromNode":"c743047343a75029","fromSide":"right","toNode":"92db9bfd0e7de9c6","toSide":"bottom"}
+	]
+}
