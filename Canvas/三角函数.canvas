@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"e9e6b649a9da0b7b","type":"group","x":-360,"y":100,"width":710,"height":480,"label":"CosX"},
+		{"id":"27be6c8a93c7cef6","type":"group","x":440,"y":100,"width":710,"height":480,"label":"TanX"},
+		{"id":"1067d53feb4649b4","type":"group","x":-1160,"y":80,"width":710,"height":460,"label":"SinX"},
+		{"id":"3cc2c84f749970fc","type":"text","text":"SinX","x":-224,"y":-175,"width":250,"height":60},
+		{"id":"d4350ad1ad6ea64e","type":"text","text":"CosX","x":60,"y":-175,"width":250,"height":60},
+		{"id":"85dddeffdda58652","type":"text","text":"TanX","x":340,"y":-175,"width":250,"height":60},
+		{"id":"a786eb8020e88ac5","type":"file","file":"Image/Pasted image 20250124151620.png","x":-340,"y":180,"width":400,"height":353},
+		{"id":"bf5db32ce66211cc","type":"text","text":"CosX表示黄色点的x轴长度\nX为角度","x":80,"y":180,"width":250,"height":343},
+		{"id":"5c4a658389346714","type":"text","text":"TanX 正切函数\n表示圆圈的中心点到权内黄点做一条双向无限长的射线，同时在点（1，0）处做一条切线，TanX表示的正是射线与切线相交的圈外黄色点的y轴高度\nX为角度","x":880,"y":180,"width":250,"height":343},
+		{"id":"106d326f638e27aa","type":"file","file":"Image/Pasted image 20250124151837.png","x":460,"y":180,"width":400,"height":329},
+		{"id":"3f8496e4477dd81e","type":"text","text":"SinX这整个函数是表示黄色点的高度\nX为角度\n","x":-720,"y":140,"width":250,"height":343},
+		{"id":"d01f289675e3fd42","type":"file","file":"Image/Pasted image 20250124151304.png","x":-1140,"y":140,"width":400,"height":343}
+	],
+	"edges":[
+		{"id":"934a37903a7e1156","fromNode":"3cc2c84f749970fc","fromSide":"bottom","toNode":"1067d53feb4649b4","toSide":"top"},
+		{"id":"fbc1c514a267b1bb","fromNode":"d4350ad1ad6ea64e","fromSide":"bottom","toNode":"e9e6b649a9da0b7b","toSide":"top"},
+		{"id":"d5c8cb2a91af6e76","fromNode":"85dddeffdda58652","fromSide":"bottom","toNode":"27be6c8a93c7cef6","toSide":"top"}
+	]
+}
