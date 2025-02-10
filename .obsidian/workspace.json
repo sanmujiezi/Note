@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "32bc7cadc5982086",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "bc39f8539ede3f78",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "Home"
             }
           }
         ]
@@ -70,7 +74,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -136,12 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Home.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "Home 的大纲"
             }
           }
         ],
@@ -163,52 +169,52 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "bc39f8539ede3f78",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Content/向量的点乘与叉乘.md",
+    "Image/Pasted image 20250210000503.png",
+    "Image/Pasted image 20250209235253.png",
+    "Content/向量.md",
+    "技术分类.md",
+    "Content/向量乘除.md",
+    "Content/向量减法.md",
+    "Image/Pasted image 20250209232714.png",
+    "Content/向量加法.md",
+    "Image/Pasted image 20250209232316.png",
+    "Image/Pasted image 20250209232209.png",
+    "Content/2025-02-09.md",
+    "技术路线图.md",
+    "Home.md",
+    "Content/2025-02-06.md",
+    "Content/未命名看板.md",
+    "Content/3D数学.md",
+    "Content/初等数学.md",
+    "待完成的技术.md",
+    "Content/2025半年计划（上）.md",
     "Content/ETC.md",
     "Canvas/unity图像压缩格式.canvas",
-    "技术分类.md",
-    "Home.md",
     "Content/RGBA compressed.md",
     "Content/PVRTC.md",
     "Content/DXT.md",
     "Content/ASTC.md",
     "Content/unity学习笔记.md",
     "Canvas/Sprite资源篇.canvas",
-    "Content/2025半年计划（上）.md",
     "Content/建康饮食.md",
     "Content/CSharp基础：反射、委托事件、文件IO、多线程.md",
-    "待完成的技术.md",
     "Content/健身.md",
     "Content/未命名.md",
-    "Content/未命名思维导图.md",
-    "Content/未命名 1.md",
     "健身与饮食",
-    "Content/3D数学.md",
-    "Content/商业游戏开发简介.md",
-    "Content/unity基础.md",
-    "技术路线图.md",
-    "Content/读书笔记.md",
-    "模板/模板名称.md",
-    "Content/2025-01-15.md",
-    "仲裁/劳动争议化解平台信息填写.md",
     "Canvas/TextMeshPro资源篇.canvas",
     "Image/字符集.png",
     "Image/Pasted image 20250109231608.png",
     "Image/Pasted image 20250109231442.png",
     "Image/Pasted image 20250109203818.png",
     "Image/Pasted image 20250109203811.png",
-    "Image/Pasted image 20250109203307.png",
     "仲裁",
     "Canvas/二进制数据持久化.canvas",
-    "Image/Pasted image 20250107233909.png",
-    "Image/Sprite atlas Inspeactor.png",
     "Map/Unity基础.canvas",
     "Canvas/图谱.canvas",
-    "Content/2025-01-07.md",
     "Map/拼个饭游戏.xmind",
-    "Image/Pasted image 20241117183010.png",
-    "Image/Pasted image 20241117180330.png",
     "Map/热更新.canvas",
     "Map/Addressable.canvas",
     "Map/Excel程序集.xmind",
