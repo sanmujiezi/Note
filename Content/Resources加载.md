@@ -72,8 +72,18 @@ private IEnumerator IELoadAsync<T>(string path, UnityAction<T> callback) where T
 
 ### AsyncOperation 类
 常用的属性与方法
-- `isDone` 
-- `progress`
-- `priority`
-- `allowSceneActivation`
-- 
+- `isDone`  判断异步操作是否已经完成
+- `progress` 返回一个加载进度的浮点值
+- `priority` 返回一个整数值的进度（0-1）
+- `allowSceneActivation`  如果加载的是场景，判断是否允许场景被激活
+- `Action completed` 一个事件，可以通过它来完成异步操作后的自定义方法
+
+## Resources加载与卸载资源
+- 加载过的资源不被被重复加载
+- 但是第二次加载时发现缓存存在资源，直接取出，这个过程浪费性能。
+- `Resources.UnloadAsset(rq)`可以释放资源
+- `Resources.UnloadUnusedAssets()` 可以释放未使用的资源
+- `GC.Collect()` 执行GC清理内存垃圾，但是需要先将资源指向null
+> [!NOTE] Prefab资源无法被卸载
+> 加载的Prefab资源无法被卸载
+

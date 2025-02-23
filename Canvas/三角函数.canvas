@@ -8,10 +8,10 @@
 		{"id":"85dddeffdda58652","type":"text","text":"TanX","x":340,"y":-175,"width":250,"height":60},
 		{"id":"a786eb8020e88ac5","type":"file","file":"Image/Pasted image 20250124151620.png","x":-340,"y":180,"width":400,"height":353},
 		{"id":"bf5db32ce66211cc","type":"text","text":"CosX表示黄色点的x轴长度\nX为角度","x":80,"y":180,"width":250,"height":343},
-		{"id":"5c4a658389346714","type":"text","text":"TanX 正切函数\n表示圆圈的中心点到权内黄点做一条双向无限长的射线，同时在点（1，0）处做一条切线，TanX表示的正是射线与切线相交的圈外黄色点的y轴高度\nX为角度","x":880,"y":180,"width":250,"height":343},
-		{"id":"106d326f638e27aa","type":"file","file":"Image/Pasted image 20250124151837.png","x":460,"y":180,"width":400,"height":329},
 		{"id":"3f8496e4477dd81e","type":"text","text":"SinX这整个函数是表示黄色点的高度\nX为角度\n","x":-720,"y":140,"width":250,"height":343},
-		{"id":"d01f289675e3fd42","type":"file","file":"Image/Pasted image 20250124151304.png","x":-1140,"y":140,"width":400,"height":343}
+		{"id":"d01f289675e3fd42","type":"file","file":"Image/Pasted image 20250124151304.png","x":-1140,"y":140,"width":400,"height":343},
+		{"id":"5c4a658389346714","type":"text","text":"TanX 正切函数\n表示圆圈的中心点到权内黄点做一条双向无限长的射线，同时在点（1，0）处做一条切线，TanX表示的正是射线与切线相交的圈外黄色点的y轴高度\nX为角度","x":880,"y":180,"width":250,"height":343},
+		{"id":"106d326f638e27aa","type":"file","file":"Image/Pasted image 20250124151837.png","x":460,"y":180,"width":400,"height":329}
 	],
 	"edges":[
 		{"id":"934a37903a7e1156","fromNode":"3cc2c84f749970fc","fromSide":"bottom","toNode":"1067d53feb4649b4","toSide":"top"},

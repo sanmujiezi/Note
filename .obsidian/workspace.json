@@ -6,22 +6,74 @@
       {
         "id": "4509724f8bf84da7",
         "type": "tabs",
+        "dimension": 61.719833564493754,
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "14639e9e499e01e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "HomePage.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HomePage"
+            }
+          },
+          {
+            "id": "b7a3a2ee178822ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Content/2025-02-24.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-02-24"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "fc9c4c9c644e8498",
+        "type": "tabs",
+        "dimension": 38.28016643550624,
+        "children": [
+          {
+            "id": "33fc8ca74b0f0027",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Content/2025半年计划（上）.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "2025半年计划（上）"
+            }
+          },
+          {
+            "id": "4d784f9b848af7b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Content/第二周任务.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "第二周任务"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -74,12 +126,11 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 345.5
+    "width": 200
   },
   "right": {
     "id": "89c56fc3b87e5f3b",
@@ -141,13 +192,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md",
+                "file": "Content/2025-02-24.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Home 的大纲"
+              "title": "2025-02-24 的大纲"
             }
           }
         ],
@@ -155,7 +206,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 233.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,61 +220,63 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "b7a3a2ee178822ec",
   "lastOpenFiles": [
-    "Content/向量的点乘与叉乘.md",
+    "Content/第二周任务.md",
+    "Content/2025-02-24.md",
+    "Content/Unity学习路线.md",
+    "HomePage.md",
+    "Content/周学习总结.md",
+    "Content/第一周任务.md",
+    "Content/2025半年计划（上）.md",
+    "Content/未命名看板.md",
+    "Content/Invalid date.md",
+    "Content/unity基础.md",
+    "Content/Unity以及CSharpAPI.md",
+    "Map/热更新.canvas",
+    "Canvas/TextMeshPro资源篇.canvas",
+    "Map/Addressable.canvas",
+    "英语/英语学习手册.md",
+    "Content/旋转与欧拉角、四元数.md",
+    "技术分类.md",
+    "Content/图形初等数学.md",
+    "Canvas/三角函数.canvas",
+    "Content/Pasted image 20250121160746.png.md",
+    "Content/ETC.md",
+    "Content/PVRTC.md",
+    "Content/学习的反思.md",
+    "Content/Task与线程池.md",
+    "Content/多线程.md",
+    "Content/数学API.md",
+    "Content/unity学习笔记.md",
+    "Canvas/unity图像压缩格式.canvas",
+    "Content/CSharp基础：反射、委托事件、文件IO、多线程.md",
+    "技术路线图.md",
+    "待完成的技术.md",
+    "Image/screen_recording_2025-02-10_17-35-09.gif",
+    "Image/Pasted image 20250210173206.png",
+    "Image/Pasted image 20250210173103.png",
+    "Image/Pasted image 20250210172749.png",
+    "Image/Pasted image 20250210172529.png",
+    "Image/Pasted image 20250213010641.png",
+    "英语",
+    "Image/Pasted image 20250205160606.png",
+    "Image/Pasted image 20250205160431.png",
     "Image/Pasted image 20250210000503.png",
     "Image/Pasted image 20250209235253.png",
-    "Content/向量.md",
-    "技术分类.md",
-    "Content/向量乘除.md",
-    "Content/向量减法.md",
-    "Image/Pasted image 20250209232714.png",
-    "Content/向量加法.md",
-    "Image/Pasted image 20250209232316.png",
-    "Image/Pasted image 20250209232209.png",
-    "Content/2025-02-09.md",
-    "技术路线图.md",
-    "Home.md",
-    "Content/2025-02-06.md",
-    "Content/未命名看板.md",
-    "Content/3D数学.md",
-    "Content/初等数学.md",
-    "待完成的技术.md",
-    "Content/2025半年计划（上）.md",
-    "Content/ETC.md",
-    "Canvas/unity图像压缩格式.canvas",
-    "Content/RGBA compressed.md",
-    "Content/PVRTC.md",
-    "Content/DXT.md",
-    "Content/ASTC.md",
-    "Content/unity学习笔记.md",
     "Canvas/Sprite资源篇.canvas",
-    "Content/建康饮食.md",
-    "Content/CSharp基础：反射、委托事件、文件IO、多线程.md",
-    "Content/健身.md",
-    "Content/未命名.md",
     "健身与饮食",
-    "Canvas/TextMeshPro资源篇.canvas",
-    "Image/字符集.png",
-    "Image/Pasted image 20250109231608.png",
-    "Image/Pasted image 20250109231442.png",
-    "Image/Pasted image 20250109203818.png",
-    "Image/Pasted image 20250109203811.png",
     "仲裁",
     "Canvas/二进制数据持久化.canvas",
     "Map/Unity基础.canvas",
     "Canvas/图谱.canvas",
     "Map/拼个饭游戏.xmind",
-    "Map/热更新.canvas",
-    "Map/Addressable.canvas",
     "Map/Excel程序集.xmind",
     "Map/UGUI.xmind",
     "Map/FairyGUI.xmind",
     "Map/UGUI项目实战.xmind",
     "JI.canvas",
     "模板",
-    "Canvas",
-    "Content"
+    "Canvas"
   ]
 }
