@@ -6,70 +6,47 @@
       {
         "id": "4509724f8bf84da7",
         "type": "tabs",
-        "dimension": 61.719833564493754,
         "children": [
           {
-            "id": "14639e9e499e01e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HomePage.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "HomePage"
-            }
-          },
-          {
-            "id": "b7a3a2ee178822ec",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Content/2025-02-24.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "2025-02-24"
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "fc9c4c9c644e8498",
-        "type": "tabs",
-        "dimension": 38.28016643550624,
-        "children": [
+          },
           {
-            "id": "33fc8ca74b0f0027",
+            "id": "45d89979012b041e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Content/2025半年计划（上）.md",
+                "file": "Content/2025-02-25.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025半年计划（上）"
+              "title": "2025-02-25"
             }
           },
           {
-            "id": "4d784f9b848af7b4",
+            "id": "b9231d591ac687cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Content/第二周任务.md",
+                "file": "Content/计算机网络基础概念.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "第二周任务"
+              "title": "计算机网络基础概念"
             }
           }
         ],
@@ -192,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Content/2025-02-24.md",
+                "file": "Content/2025-02-25.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-02-24 的大纲"
+              "title": "2025-02-25 的大纲"
             }
           }
         ],
@@ -220,12 +197,20 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "b7a3a2ee178822ec",
+  "active": "45d89979012b041e",
   "lastOpenFiles": [
-    "Content/第二周任务.md",
     "Content/2025-02-24.md",
-    "Content/Unity学习路线.md",
+    "Content/第二周任务.md",
+    "Content/2025-02-25.md",
     "HomePage.md",
+    "技术路线图.md",
+    "Content/Unity学习路线.md",
+    "TCP/IP.md",
+    "TCP",
+    "Content/网络层级.md",
+    "Content/计算机网络基础概念.md",
+    "技术分类.md",
+    "待完成的技术.md",
     "Content/周学习总结.md",
     "Content/第一周任务.md",
     "Content/2025半年计划（上）.md",
@@ -238,7 +223,6 @@
     "Map/Addressable.canvas",
     "英语/英语学习手册.md",
     "Content/旋转与欧拉角、四元数.md",
-    "技术分类.md",
     "Content/图形初等数学.md",
     "Canvas/三角函数.canvas",
     "Content/Pasted image 20250121160746.png.md",
@@ -246,13 +230,7 @@
     "Content/PVRTC.md",
     "Content/学习的反思.md",
     "Content/Task与线程池.md",
-    "Content/多线程.md",
-    "Content/数学API.md",
-    "Content/unity学习笔记.md",
     "Canvas/unity图像压缩格式.canvas",
-    "Content/CSharp基础：反射、委托事件、文件IO、多线程.md",
-    "技术路线图.md",
-    "待完成的技术.md",
     "Image/screen_recording_2025-02-10_17-35-09.gif",
     "Image/Pasted image 20250210173206.png",
     "Image/Pasted image 20250210173103.png",
@@ -276,7 +254,6 @@
     "Map/FairyGUI.xmind",
     "Map/UGUI项目实战.xmind",
     "JI.canvas",
-    "模板",
-    "Canvas"
+    "模板"
   ]
 }
