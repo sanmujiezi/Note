@@ -36,6 +36,7 @@ sda: 2025-02-23
 4. [[TCP与UDP协议的区别]]
 5. [[CSharp中的网络API]]
 6. [[网络中的二进制序列化与反序列化]]
+7. [[Socket是什么]]
 
 # 热更新
 1. [[Addressable.canvas|Addressable资源更新]]
