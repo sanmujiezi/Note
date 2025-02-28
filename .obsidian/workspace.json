@@ -13,40 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Content/2025-02-24.md",
+                "file": "Content/规划/第二周任务.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-02-24"
+              "title": "第二周任务"
             }
           },
           {
-            "id": "45d89979012b041e",
+            "id": "e04230e437a6bedf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Content/2025-02-25.md",
+                "file": "HomePage.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-02-25"
-            }
-          },
-          {
-            "id": "b9231d591ac687cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Content/计算机网络基础概念.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "计算机网络基础概念"
+              "title": "HomePage"
             }
           }
         ],
@@ -70,7 +56,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -169,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Content/2025-02-25.md",
+                "file": "HomePage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-02-25 的大纲"
+              "title": "HomePage 的大纲"
             }
           }
         ],
@@ -183,7 +169,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.5
+    "width": 372.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,39 +183,41 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "45d89979012b041e",
+  "active": "e04230e437a6bedf",
   "lastOpenFiles": [
-    "Content/2025-02-24.md",
-    "Content/第二周任务.md",
-    "Content/2025-02-25.md",
+    "Content/规划/第二周任务.md",
+    "Content/规划/第一周任务.md",
+    "Content/规划/2025-02-28.md",
+    "Content/规划/2025-02-27.md",
+    "Content/规划/2025-02-27.md",
+    "Content/规划/2025-02-26.md",
+    "Content/规划/2025半年计划（上）.md",
     "HomePage.md",
-    "技术路线图.md",
+    "Content/规划/2024-12-26.md",
+    "Content/规划",
+    "Image/Pasted image 20250227171407.png",
+    "Image/Pasted image 20250227171301.png",
+    "Content/UGUI.md",
+    "Content/规划/2025-02-25.md",
     "Content/Unity学习路线.md",
-    "TCP/IP.md",
-    "TCP",
-    "Content/网络层级.md",
-    "Content/计算机网络基础概念.md",
+    "Content/Socket是什么.md",
+    "Content/网络中的二进制序列化与反序列化.md",
+    "Content/规划/2025-02-24.md",
+    "Content/CSharp中的网络API.md",
+    "Content/C.md",
+    "Content/TCP与UDP协议的区别.md",
     "技术分类.md",
+    "技术路线图.md",
+    "TCP/IP.md",
+    "Content/网络层级.md",
     "待完成的技术.md",
+    "TCP",
+    "Content/计算机网络基础概念.md",
     "Content/周学习总结.md",
-    "Content/第一周任务.md",
-    "Content/2025半年计划（上）.md",
-    "Content/未命名看板.md",
-    "Content/Invalid date.md",
-    "Content/unity基础.md",
-    "Content/Unity以及CSharpAPI.md",
     "Map/热更新.canvas",
     "Canvas/TextMeshPro资源篇.canvas",
     "Map/Addressable.canvas",
-    "英语/英语学习手册.md",
-    "Content/旋转与欧拉角、四元数.md",
-    "Content/图形初等数学.md",
     "Canvas/三角函数.canvas",
-    "Content/Pasted image 20250121160746.png.md",
-    "Content/ETC.md",
-    "Content/PVRTC.md",
-    "Content/学习的反思.md",
-    "Content/Task与线程池.md",
     "Canvas/unity图像压缩格式.canvas",
     "Image/screen_recording_2025-02-10_17-35-09.gif",
     "Image/Pasted image 20250210173206.png",
@@ -240,8 +228,6 @@
     "英语",
     "Image/Pasted image 20250205160606.png",
     "Image/Pasted image 20250205160431.png",
-    "Image/Pasted image 20250210000503.png",
-    "Image/Pasted image 20250209235253.png",
     "Canvas/Sprite资源篇.canvas",
     "健身与饮食",
     "仲裁",
@@ -253,7 +239,6 @@
     "Map/UGUI.xmind",
     "Map/FairyGUI.xmind",
     "Map/UGUI项目实战.xmind",
-    "JI.canvas",
-    "模板"
+    "JI.canvas"
   ]
 }
