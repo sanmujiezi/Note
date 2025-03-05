@@ -20,7 +20,7 @@ sda: 2025-02-23
 7. [[Sprite资源篇.canvas|Sprite资源篇]]
 8. [[对象池]]
 9. [[TextMeshPro资源篇.canvas|TextMeshPro资源篇]]
-10. [[UGUI]]
+10. [[UGUI内容适配的最大限制]]
 
 # 编程语言基础
 1. [[反射]]
