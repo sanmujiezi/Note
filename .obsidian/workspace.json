@@ -11,10 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Content/第三周任务.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "第三周任务"
             }
           }
         ]
@@ -136,12 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Content/第三周任务.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "第三周任务 的大纲"
             }
           }
         ],
@@ -153,62 +158,61 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-kanban:创建新看板": false,
-      "homepage:Open homepage": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "obsidian-kanban:创建新看板": false,
+      "homepage:Open homepage": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Content/2025-03-04.md",
+    "HomePage.md",
     "Content/第三周任务.md",
     "Content/2025-03-03.md",
-    "HomePage.md",
+    "Content/多路复用Select.md",
+    "Image/Pasted image 20250306013356.png",
+    "Image/Pasted image 20250306012948.png",
+    "Image/Pasted image 20250306012935.png",
+    "Image/Pasted image 20250306012628.png",
+    "Image/Pasted image 20250306012545.png",
+    "Content/Unity学习路线.md",
+    "Content/状态检测Poll.md",
+    "Image/Pasted image 20250306011931.png",
+    "Image/Pasted image 20250306011925.png",
+    "Image/Pasted image 20250306011833.png",
+    "Image/Pasted image 20250306011826.png",
+    "Image/Pasted image 20250306011714.png",
+    "Content/UGUI内容适配的最大限制.md",
+    "Content/2025-03-04.md",
+    "Content/2025-03-05.md",
     "Content/规划/第二周任务.md",
+    "Content/规划/2025半年计划（上）.md",
+    "Content/规划/第一周任务.md",
     "Content/Socket异步API.md",
     "Content/2025-03-02.md",
     "Content/2025-03-01.md",
-    "Content/规划/第一周任务.md",
     "Content/规划/2025-02-28.md",
     "Content/规划/2025-02-27.md",
     "Content/规划/2025-02-27.md",
     "Content/规划/2025-02-26.md",
-    "Content/规划/2025半年计划（上）.md",
     "Content/规划/2024-12-26.md",
     "Content/规划",
-    "Image/Pasted image 20250227171407.png",
-    "Image/Pasted image 20250227171301.png",
     "Content/UGUI.md",
     "Content/规划/2025-02-25.md",
-    "Content/Unity学习路线.md",
     "Content/Socket是什么.md",
     "Content/网络中的二进制序列化与反序列化.md",
     "Content/规划/2025-02-24.md",
-    "Content/CSharp中的网络API.md",
-    "Content/C.md",
-    "Content/TCP与UDP协议的区别.md",
-    "技术分类.md",
-    "技术路线图.md",
     "TCP",
     "Map/热更新.canvas",
     "Canvas/TextMeshPro资源篇.canvas",
     "Map/Addressable.canvas",
     "Canvas/三角函数.canvas",
     "Canvas/unity图像压缩格式.canvas",
-    "Image/screen_recording_2025-02-10_17-35-09.gif",
-    "Image/Pasted image 20250210173206.png",
-    "Image/Pasted image 20250210173103.png",
-    "Image/Pasted image 20250210172749.png",
-    "Image/Pasted image 20250210172529.png",
-    "Image/Pasted image 20250213010641.png",
     "英语",
-    "Image/Pasted image 20250205160606.png",
-    "Image/Pasted image 20250205160431.png",
     "Canvas/Sprite资源篇.canvas",
     "健身与饮食",
     "仲裁",
