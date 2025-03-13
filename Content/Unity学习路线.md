@@ -40,7 +40,7 @@ sda: 2025-02-23
 7. [[Socket是什么]]
 8. [[Socket异步API]]
 9. [[状态检测Poll]]
-10.[[ 多路复用Select]]
+10. [[ 多路复用Select]]
 
 # 热更新
 1. [[Addressable.canvas|Addressable资源更新]]
@@ -56,6 +56,7 @@ sda: 2025-02-23
 1. [[商业游戏开发简介]]
 2. [[安卓、苹果SDK]]
 3. 项目开发实践
+4. [[ScrewGril1的板子预制工具开发]]
 
 # 拓展技术
 
