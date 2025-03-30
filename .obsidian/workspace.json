@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Content/Socket异步API.md",
+                "file": "Content/初步三分化训练表.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Socket异步API"
-            }
-          },
-          {
-            "id": "2bd24cbe879971c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Content/2025-03-12.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-03-12"
+              "title": "初步三分化训练表"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -56,7 +41,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -68,10 +53,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "三分",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
@@ -89,7 +74,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -155,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Content/2025-03-12.md",
+                "file": "Content/初步三分化训练表.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-03-12 的大纲"
+              "title": "初步三分化训练表 的大纲"
             }
           }
         ],
@@ -183,45 +169,47 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "2bd24cbe879971c1",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Home.md",
-    "HomePage.md",
+    "Content/2025-03-29.md",
+    "Content/第六周任务.md",
+    "Content/协程.md",
+    "Content/2025-03-26.md",
+    "Content/2025-03-25.md",
+    "Content/初步三分化训练表.md",
+    "Content/2025-03-17.md",
+    "项目开发/SpaceRevive空间类型项目/玩法的需求.md",
+    "项目开发/SpaceRevive空间类型项目/玩法策划案.md",
+    "Content/2025-03-23.md",
+    "项目开发/SpaceRevive空间类型项目",
+    "项目开发",
+    "Content/第五周任务.md",
+    "Content/2025-03-21.md",
+    "Content/2025-03-19.md",
+    "Content/工具的设计模式.md",
+    "Content/2025-03-18.md",
+    "Content/游戏中的空间设计.md",
+    "Content/游戏机制与玩法.md",
+    "Content/周学习总结.md",
+    "Content/规划/第二周任务.md",
+    "Content/Unity学习路线.md",
+    "Content/跑步拉伸.md",
+    "Content/饮食菜谱.md",
     "Content/第四周任务.md",
-    "Content/Socket异步API.md",
-    "Content/向量.md",
-    "Content/2025-03-11.md",
-    "Content/第三周任务.md",
-    "Content/2025-03-06.md",
-    "Content/2025-03-05.md",
-    "Content/UGUI内容适配的最大限制.md",
+    "Content/2025-03-22.md",
+    "Content/2025-03-20.md",
+    "Image/Pasted image 20250313185345.png",
+    "Image/Pasted image 20250313185324.png",
+    "Image/Pasted image 20250313183646.png",
+    "Image/Pasted image 20250313182812.png",
     "Image/Pasted image 20250306013356.png",
     "Image/Pasted image 20250306012948.png",
     "Image/Pasted image 20250306012935.png",
     "Image/Pasted image 20250306012628.png",
     "Image/Pasted image 20250306012545.png",
     "Image/Pasted image 20250306011931.png",
-    "Image/Pasted image 20250306011925.png",
-    "Image/Pasted image 20250306011833.png",
-    "Image/Pasted image 20250306011826.png",
-    "Image/Pasted image 20250306011714.png",
-    "Content/状态检测Poll.md",
-    "Content/多路复用Select.md",
-    "Content/UGUI实现与优化.md",
-    "Content/2025-03-04.md",
-    "Content/2025-03-03.md",
-    "Content/规划/第二周任务.md",
-    "Content/规划/2025半年计划（上）.md",
-    "Content/规划/第一周任务.md",
-    "Content/2025-03-02.md",
-    "Content/2025-03-01.md",
-    "Content/规划/2025-02-28.md",
-    "Content/规划/2025-02-27.md",
-    "Content/规划/2025-02-27.md",
-    "Content/规划/2025-02-26.md",
-    "Content/规划/2024-12-26.md",
     "Content/规划",
-    "Content/UGUI.md",
     "TCP",
     "Map/热更新.canvas",
     "Canvas/TextMeshPro资源篇.canvas",
@@ -238,8 +226,6 @@
     "Map/拼个饭游戏.xmind",
     "Map/Excel程序集.xmind",
     "Map/UGUI.xmind",
-    "Map/FairyGUI.xmind",
-    "Map/UGUI项目实战.xmind",
     "JI.canvas"
   ]
 }
