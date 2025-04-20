@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Content/三分化训练表.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "三分化训练表"
+              "title": "Home"
             }
           }
         ]
@@ -171,7 +171,15 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Content/第九周任务.md",
+    "Content/数组与字符串.md",
+    "Content/二叉树.md",
+    "Content/KMP算法.md",
+    "Content/2025-04-15.md",
+    "Content/2025-04-14.md",
+    "Content/三分化训练表.md",
     "Home.md",
+    "Content/第八周任务.md",
     "Content/字符出啊你的格式化输入与输出.md",
     "Content/C语言.md",
     "Content/第一章初识C语言.md",
@@ -191,14 +199,6 @@
     "项目开发/SpaceRevive空间类型项目",
     "项目开发",
     "Content/第五周任务.md",
-    "Content/2025-03-21.md",
-    "Content/2025-03-19.md",
-    "Content/工具的设计模式.md",
-    "Content/2025-03-18.md",
-    "Content/游戏中的空间设计.md",
-    "Content/游戏机制与玩法.md",
-    "Content/周学习总结.md",
-    "Content/规划/第二周任务.md",
     "Image/Pasted image 20250313185345.png",
     "Image/Pasted image 20250313185324.png",
     "Image/Pasted image 20250313183646.png",
